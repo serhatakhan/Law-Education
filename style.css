@@ -1,0 +1,15 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+/* body oluşurken yukarı kısmına 60px boşluk içinde herhangi bir yazı olmayan eleman koy.
+yani o satır bu değerlerle komple kitlensin */
+
+.resim{
+    border-radius: 7px;
+}
+
+.bi-book-half{
+    font-size: 21px;
+}
